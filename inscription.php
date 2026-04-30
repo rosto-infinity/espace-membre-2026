@@ -72,22 +72,22 @@ include 'header.php';
     <form method="POST" action="">
         <div class="form-group">
             <label for="pseudo">Pseudo</label>
-            <input type="text" placeholder="Votre pseudo" id="pseudo" name="pseudo" required />
+            <input type="text" placeholder="Votre pseudo" id="pseudo" name="pseudo"  />
         </div>
 
         <div class="form-group">
             <label for="mail">Adresse E-mail</label>
-            <input type="email" placeholder="votre@email.com" id="mail" name="mail" required />
+            <input type="email" placeholder="votre@email.com" id="mail" name="mail"  />
         </div>
 
         <div class="form-group">
             <label for="mdp">Mot de passe</label>
-            <input type="password" placeholder="8 caractères min. (lettre + chiffre)" id="mdp" name="mdp" required />
+            <input type="password" placeholder="8 caractères min. (lettre + chiffre)" id="mdp" name="mdp"  />
         </div>
 
         <div class="form-group">
             <label for="mdp2">Confirmer le mot de passe</label>
-            <input type="password" placeholder="Confirmez votre mot de passe" id="mdp2" name="mdp2" required />
+            <input type="password" placeholder="Confirmez votre mot de passe" id="mdp2" name="mdp2"  />
         </div>
 
         <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 1rem;">
