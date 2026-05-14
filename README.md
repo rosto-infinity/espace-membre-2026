@@ -71,4 +71,4 @@ Nous avons rédigé une documentation complète de 20 chapitres pour vous guider
 4. **Lancer** : Accéder à `index.php` via votre serveur local (Apache/Nginx).
 
 ---
-*Projet réalisé dans le cadre d'un TP de modernisation d'application web.*
+*Projet réalisé dans le cadre d'un TP de modernisation d'application web.* rosto
